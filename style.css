@@ -5,6 +5,17 @@
 }
 
 
+.bg-parchment{
+  background-color: var(--parchment);
+}
+
+
+.product-cart-card{
+  box-shadow: 0 0 4px -1px var(--primary);
+  background: antiquewhite;
+  padding: .5rem;
+}
+
 header, footer{
   background-color: var(--primary);
   color: var(--secondary);
